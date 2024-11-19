@@ -1,0 +1,110 @@
+>> task1
+ZIP file successfully extracted to "D:\datasets".
+Number of subject folders in the dataset: 3
+Subject: sub1 | Action: normal | Folder Type: txt | Path: D:\datasets\sub1\normal\txt
+Files:
+  - Bowing.txt (Size: 304.75 KB, Rows: 9830, Columns: 1)
+  - Clapping.txt (Size: 303.95 KB, Rows: 10000, Columns: 1)
+  - Handshaking.txt (Size: 265.68 KB, Rows: 9611, Columns: 1)
+  - Hugging.txt (Size: 296.43 KB, Rows: 9756, Columns: 1)
+  - Jumping.txt (Size: 370.33 KB, Rows: 10000, Columns: 1)
+  - Running.txt (Size: 381.00 KB, Rows: 9964, Columns: 1)
+  - Seating.txt (Size: 255.71 KB, Rows: 10000, Columns: 1)
+  - Standing.txt (Size: 243.30 KB, Rows: 9725, Columns: 1)
+  - Walking.txt (Size: 329.20 KB, Rows: 10000, Columns: 1)
+  - Waving.txt (Size: 264.55 KB, Rows: 10000, Columns: 1)
+------------------------------------------------------------
+Subject: sub1 | Action: normal | Folder Type: log | Path: D:\datasets\sub1\normal\log
+Files:
+  - Bowing.log (Size: 154.11 KB)
+  - Clapping.log (Size: 157.07 KB)
+  - Handshaking.log (Size: 150.69 KB)
+  - Hugging.log (Size: 152.96 KB)
+  - Jumping.log (Size: 157.89 KB)
+  - Running.log (Size: 156.21 KB)
+  - Seating.log (Size: 160.57 KB)
+  - Standing.log (Size: 152.47 KB)
+  - Walking.log (Size: 164.10 KB)
+  - Waving.log (Size: 160.98 KB)
+------------------------------------------------------------
+Subject: sub1 | Action: aggressive | Folder Type: txt | Path: D:\datasets\sub1\aggressive\txt
+Files:
+  - Elbowing.txt (Size: 388.76 KB, Rows: 9772, Columns: 1)
+  - Frontkicking.txt (Size: 381.01 KB, Rows: 9811, Columns: 1)
+  - Hamering.txt (Size: 392.93 KB, Rows: 10000, Columns: 1)
+  - Headering.txt (Size: 342.08 KB, Rows: 10000, Columns: 1)
+  - Kneeing.txt (Size: 389.18 KB, Rows: 10000, Columns: 1)
+  - Pulling.txt (Size: 378.57 KB, Rows: 9659, Columns: 1)
+  - Punching.txt (Size: 370.70 KB, Rows: 9637, Columns: 1)
+  - Pushing.txt (Size: 370.54 KB, Rows: 9676, Columns: 1)
+  - Sidekicking.txt (Size: 379.80 KB, Rows: 9829, Columns: 1)
+  - Slapping.txt (Size: 352.63 KB, Rows: 9788, Columns: 1)
+------------------------------------------------------------
+Subject: sub1 | Action: aggressive | Folder Type: log | Path: D:\datasets\sub1\aggressive\log
+Files:
+  - Elbowing.log (Size: 153.21 KB)
+  - FrontKicking.log (Size: 153.81 KB)
+  - Hamering.log (Size: 161.45 KB)
+  - Headering.log (Size: 172.90 KB)
+  - Kneeing.log (Size: 156.79 KB)
+  - Pulling.log (Size: 151.44 KB)
+  - Punching.log (Size: 151.09 KB)
+  - Pushing.log (Size: 151.71 KB)
+  - SideKicking.log (Size: 154.09 KB)
+  - Slapping.log (Size: 153.45 KB)
+------------------------------------------------------------
+Subject: sub2 | Action: normal | Folder Type: txt | Path: D:\datasets\sub2\normal\txt
+Files:
+  - Bowing.txt (Size: 310.66 KB, Rows: 9930, Columns: 1)
+  - Clapping.txt (Size: 315.52 KB, Rows: 10000, Columns: 1)
+  - Handshaking.txt (Size: 321.21 KB, Rows: 10000, Columns: 1)
+  - Hugging.txt (Size: 279.28 KB, Rows: 10000, Columns: 1)
+  - Jumping.txt (Size: 363.48 KB, Rows: 10000, Columns: 1)
+  - Running.txt (Size: 351.33 KB, Rows: 10000, Columns: 1)
+  - Seating.txt (Size: 249.12 KB, Rows: 10000, Columns: 1)
+  - Standing.txt (Size: 272.49 KB, Rows: 10000, Columns: 1)
+  - Walking.txt (Size: 414.42 KB, Rows: 10000, Columns: 1)
+  - Waving.txt (Size: 277.85 KB, Rows: 10000, Columns: 1)
+------------------------------------------------------------
+Subject: sub2 | Action: normal | Folder Type: log | Path: D:\datasets\sub2\normal\log
+Files:
+  - Bowing.log (Size: 155.67 KB)
+  - Clapping.log (Size: 184.06 KB)
+  - Handshaking.log (Size: 161.28 KB)
+  - Hugging.log (Size: 178.09 KB)
+  - Jumping.log (Size: 175.89 KB)
+  - Running.log (Size: 187.29 KB)
+  - Seating.log (Size: 156.92 KB)
+  - Standing.log (Size: 158.98 KB)
+  - Walking.log (Size: 181.40 KB)
+  - Walking1v.log (Size: 284.95 KB)
+  - Walking3v.log (Size: 175.29 KB)
+  - Waving.log (Size: 175.78 KB)
+------------------------------------------------------------
+Subject: sub2 | Action: aggressive | Folder Type: txt | Path: D:\datasets\sub2\aggressive\txt
+Files:
+  - Elbowing.txt (Size: 353.49 KB, Rows: 10000, Columns: 1)
+  - Frontkicking.txt (Size: 361.76 KB, Rows: 9884, Columns: 1)
+  - Hamering.txt (Size: 371.57 KB, Rows: 10000, Columns: 1)
+  - Headering.txt (Size: 334.37 KB, Rows: 10000, Columns: 1)
+  - Kneeing.txt (Size: 362.49 KB, Rows: 10000, Columns: 1)
+  - Pulling.txt (Size: 360.40 KB, Rows: 10000, Columns: 1)
+  - Punching.txt (Size: 364.77 KB, Rows: 10000, Columns: 1)
+  - Pushing.txt (Size: 362.30 KB, Rows: 10000, Columns: 1)
+  - Sidekicking.txt (Size: 355.39 KB, Rows: 9806, Columns: 1)
+  - Slapping.txt (Size: 350.39 KB, Rows: 10000, Columns: 1)
+------------------------------------------------------------
+Subject: sub2 | Action: aggressive | Folder Type: log | Path: D:\datasets\sub2\aggressive\log
+Files:
+  - Elbowing.log (Size: 158.18 KB)
+  - Frontkicking.log (Size: 154.96 KB)
+  - Hamering.log (Size: 168.61 KB)
+  - Headering.log (Size: 176.43 KB)
+  - Kneeing.log (Size: 173.20 KB)
+  - Pulling.log (Size: 179.37 KB)
+  - Punching.log (Size: 165.12 KB)
+  - Pushing.log (Size: 167.20 KB)
+  - Sidekicking.log (Size: 153.74 KB)
+  - Slapping.log (Size: 167.67 KB)
+------------------------------------------------------------
+>>
